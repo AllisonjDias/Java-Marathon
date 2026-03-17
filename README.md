@@ -9,7 +9,7 @@ The long-term goal is to apply these skills in high-performance and mission-crit
 
 ## 🎯 Objectives
 
-Develop strong programming logic and analytical thinking using Java
+-Develop strong programming logic and analytical thinking using Java
 
 Build a foundation in automation and process optimization
 
