@@ -31,7 +31,7 @@ Continuously evolve towards engineering-level software development standards
 
 This repository is organized to reflect progressive learning and practical application:
 
-Code Examples → Focused implementations of core concepts
+- Code Examples → Focused implementations of core concepts
 
 Automation Exercises → Scripts and logic aimed at improving efficiency
 
