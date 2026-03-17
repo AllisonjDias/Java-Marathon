@@ -1,5 +1,5 @@
 # ☕ Java Learning & Automation Journey
-📌 About the Project
+## 📌 About the Project
 
 This repository documents my journey in learning and applying Java with a strong focus on automation, problem-solving, and scalable software development.
 
@@ -7,7 +7,7 @@ It serves as a structured environment where I develop practical solutions, explo
 
 The long-term goal is to apply these skills in high-performance and mission-critical environments, such as aerospace and advanced technology systems.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Develop strong programming logic and analytical thinking using Java
 
@@ -27,7 +27,7 @@ Simulate real-world scenarios involving system reliability and efficiency
 
 Continuously evolve towards engineering-level software development standards
 
-🛠 Repository Structure
+## 🛠 Repository Structure
 
 This repository is organized to reflect progressive learning and practical application:
 
@@ -43,7 +43,7 @@ Documentation → Clear explanations to support understanding and trace progress
 
 Each directory represents a step toward building a structured and engineering-oriented mindset.
 
-📖 Methodology
+## 📖 Methodology
 
 My approach is based on:
 
@@ -57,13 +57,13 @@ Focus on clarity, performance, and scalability
 
 Whenever possible, I treat each implementation as part of a larger system, reinforcing best practices used in professional environments.
 
-⚠ Notes
+## ⚠ Notes
 
 This is an educational and evolving project.
 
 Some implementations may be simple or experimental, as they reflect different stages of the learning process. The focus is on continuous improvement and technical growth.
 
-🚀 Work in Progress
+## 🚀 Work in Progress
 
 This repository is continuously updated as new concepts are learned and applied, with increasing focus on:
 
@@ -73,7 +73,7 @@ Scalable architectures
 
 Performance-oriented solutions
 
-✨ Final Statement
+## ✨ Final Statement
 
 This repository represents my commitment to becoming a software engineer focused on automation and high-reliability systems.
 
