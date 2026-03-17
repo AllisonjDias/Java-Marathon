@@ -9,23 +9,23 @@ The long-term goal is to apply these skills in high-performance and mission-crit
 
 ## 🎯 Objectives
 
--Develop strong programming logic and analytical thinking using Java
+- Develop strong programming logic and analytical thinking using Java
 
-Build a foundation in automation and process optimization
+- Build a foundation in automation and process optimization
 
-Design and implement clean, maintainable, and scalable code
+- Design and implement clean, maintainable, and scalable code
 
-Apply core concepts such as:
+- Apply core concepts such as:
 
-Object-Oriented Programming (OOP)
+- Object-Oriented Programming (OOP)
 
-Data structures and control flow
+- Data structures and control flow
 
-Modularity and code organization
+- Modularity and code organization
 
-Simulate real-world scenarios involving system reliability and efficiency
+- Simulate real-world scenarios involving system reliability and efficiency
 
-Continuously evolve towards engineering-level software development standards
+- Continuously evolve towards engineering-level software development standards
 
 ## 🛠 Repository Structure
 
@@ -33,29 +33,29 @@ This repository is organized to reflect progressive learning and practical appli
 
 - Code Examples → Focused implementations of core concepts
 
-Automation Exercises → Scripts and logic aimed at improving efficiency
+- Automation Exercises → Scripts and logic aimed at improving efficiency
 
-Experiments & Tests → Validation of ideas and technical exploration
+- Experiments & Tests → Validation of ideas and technical exploration
 
-Mini Projects → Small-scale solutions simulating real-world problems
+- Mini Projects → Small-scale solutions simulating real-world problems
 
-Documentation → Clear explanations to support understanding and trace progress
+- Documentation → Clear explanations to support understanding and trace progress
 
-Each directory represents a step toward building a structured and engineering-oriented mindset.
+- Each directory represents a step toward building a structured and engineering-oriented mindset.
 
 ## 📖 Methodology
 
 My approach is based on:
 
-Consistent hands-on practice
+- Consistent hands-on practice
 
-Iterative improvement of code quality
+- Iterative improvement of code quality
 
-Documentation of decisions and learnings
+- Documentation of decisions and learnings
 
-Focus on clarity, performance, and scalability
+- Focus on clarity, performance, and scalability
 
-Whenever possible, I treat each implementation as part of a larger system, reinforcing best practices used in professional environments.
+- Whenever possible, I treat each implementation as part of a larger system, reinforcing best practices used in professional environments.
 
 ## ⚠ Notes
 
@@ -67,11 +67,11 @@ Some implementations may be simple or experimental, as they reflect different st
 
 This repository is continuously updated as new concepts are learned and applied, with increasing focus on:
 
-Automation systems
+- Automation systems
 
-Scalable architectures
+- Scalable architectures
 
-Performance-oriented solutions
+- Performance-oriented solutions
 
 ## ✨ Final Statement
 
