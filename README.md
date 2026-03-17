@@ -1,4 +1,4 @@
-#☕ Java Learning & Automation Journey
+# ☕ Java Learning & Automation Journey
 📌 About the Project
 
 This repository documents my journey in learning and applying Java with a strong focus on automation, problem-solving, and scalable software development.
